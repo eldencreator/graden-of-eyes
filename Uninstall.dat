@@ -1,0 +1,167 @@
+{
+  "GeneralInformation": {
+      "InstallationPath"  : "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\",
+      "ApplicationVersion": "1.2.9",
+      "ApplicationName"   : "The Garden of Eyes Mod Launcher"
+    },
+  "Folders"           : [
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\runtimes\\"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\runtimes\\win-arm64\\"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\runtimes\\win-arm64\\native\\"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\runtimes\\win-x64\\"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\runtimes\\win-x64\\native\\"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\runtimes\\win-x86\\"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\runtimes\\win-x86\\native\\"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\The Garden of Eyes Mod Launcher\\"
+      }
+    ],
+  "Files"             : [
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Uninstall.exe"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Dropbox.Api.dll"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Dropbox.Api.xml"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Gameloop.Vdf.dll"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Gameloop.Vdf.xml"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Microsoft.Web.WebView2.Core.dll"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Microsoft.Web.WebView2.Core.xml"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Microsoft.Web.WebView2.WinForms.dll"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Microsoft.Web.WebView2.WinForms.xml"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Microsoft.Web.WebView2.Wpf.dll"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Microsoft.Web.WebView2.Wpf.xml"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Newtonsoft.Json.Bson.dll"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Newtonsoft.Json.Bson.pdb"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Newtonsoft.Json.Bson.xml"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Newtonsoft.Json.dll"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\Newtonsoft.Json.xml"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\runtimes\\win-arm64\\native\\WebView2Loader.dll"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\runtimes\\win-x64\\native\\WebView2Loader.dll"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\runtimes\\win-x86\\native\\WebView2Loader.dll"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\The Garden of Eyes Mod Launcher.exe"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\The Garden of Eyes Mod Launcher.exe.config"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Documents\\New folder\\The Garden of Eyes Mod Launcher\\Debug\\The Garden of Eyes Mod Launcher.pdb"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\Desktop\\The Garden of Eyes Mod Launcher.lnk"
+      },
+      {
+        "Path": "C:\\Users\\amir1\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\The Garden of Eyes Mod Launcher\\Garden of Eyes Mod Launcher.lnk"
+      }
+    ],
+  "RegistryValues"    : [
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayIcon",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\The Garden of Eyes Mod Launcher\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "UninstallString",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\The Garden of Eyes Mod Launcher\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallDate",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\The Garden of Eyes Mod Launcher\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallLocation",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\The Garden of Eyes Mod Launcher\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "EstimatedSize",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\The Garden of Eyes Mod Launcher\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoModify",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\The Garden of Eyes Mod Launcher\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoRepair",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\The Garden of Eyes Mod Launcher\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayName",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\The Garden of Eyes Mod Launcher\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayVersion",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\The Garden of Eyes Mod Launcher\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "HelpLink",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\The Garden of Eyes Mod Launcher\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "Publisher",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\The Garden of Eyes Mod Launcher\\"
+      }
+    ]
+}
